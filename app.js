@@ -189,6 +189,6 @@ app.get("/detail/:uid", async (req, res) => {
 
 const APP_PORT = process.env.PORT || 3333;
 
-app.listen(port, () => {
+app.listen(APP_PORT, () => {
   console.log(`Server online on port ${APP_PORT}`);
 });
