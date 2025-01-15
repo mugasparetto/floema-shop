@@ -1,1 +1,1 @@
-web: NODE_ENV=production node app.js & yarn frontend:build
+web: NODE_ENV=production node app.js
