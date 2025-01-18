@@ -41,7 +41,7 @@ It was deployed using [Heroku](https://www.heroku.com/)
 - [Pug](https://pugjs.org/)
 - [Webpack](https://webpack.js.org/)
 - [GSAP](https://gsap.com/)
-- [GLSL](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders)
+- [OGL](https://oframe.github.io/ogl/)
 - [Sass](https://sass-lang.com/)
 - [Prismic](https://prismic.io/)
 
